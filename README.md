@@ -24,6 +24,7 @@
 - MySQL
 - Redis
 - Nginx
+- Docker
 - Github Actions
 - Naver Cloud Platform
 
@@ -31,7 +32,7 @@
 
 ## :globe_with_meridians: 서버 아키텍처
 
-<img src = "https://github.com/f-lab-edu/gift-card-flea-market/assets/74194588/3c7822c7-552b-4a13-b2c7-cd609ebdf5a8" width="80%" height="80%" />
+<img src = "https://github.com/ghm8614/gift-card-flea-market_v2/assets/74194588/da01bebf-1a14-41df-af9a-7aa582377afe" width="85%" height="85%" />
 
 <br>
 
