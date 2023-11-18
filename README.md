@@ -42,6 +42,6 @@
 
 &emsp;:small_blue_diamond: [Prototype](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/01.Prototype) <br/>
 &emsp;:small_blue_diamond: [UseCase](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/02.UseCase) <br/>
-&emsp;:small_blue_diamond: [Project Convention & Rule](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/03.Project-Convention-&-Rule) <br/>
+&emsp;:small_blue_diamond: [Project Convention](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/03.Project-Convention) <br/>
 &emsp;:small_blue_diamond: [Data Modeling](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/04.Data-Modeling) <br/>
 &emsp;:small_blue_diamond: [Server Architecture](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/05.-Server-Architecture) <br/>
