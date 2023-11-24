@@ -2,9 +2,6 @@ server:
   port: 8080
 
 spring:
-  config:
-    import: optional:classpath:/secret-config-submodule/application-secret.yml
-
   profiles:
     include: secret
 

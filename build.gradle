@@ -38,9 +38,9 @@ test {
     useJUnitPlatform()
 }
 
-processResources.dependsOn('copySecret')
+processResources.dependsOn('copySubmoduleResource')
 
-tasks.register('copySecret', Copy) {
+tasks.register('copySubmoduleResource', Copy) {
     from 'src/main/resources/secret-config-submodule'
     include "application-secret.yml"
     into 'src/main/resources'
