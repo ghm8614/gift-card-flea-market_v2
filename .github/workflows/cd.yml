@@ -20,12 +20,6 @@ jobs:
           java-version: '17'
           distribution: 'temurin'
 
-      - name: Make application-secret.yml
-        run: |
-          touch ./src/main/resources/application-secret.yml
-          echo "${{ secrets.APPLICATION }}" > ./src/main/resources/application-secret.yml
-          cat ./src/main/resources/application-secret.yml
-
       - name: Grant execute permission for gradlew
         run: chmod +x gradlew
 
