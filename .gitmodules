@@ -1,3 +1,3 @@
 [submodule "secret-config-submodule"]
-	path = secret-config-submodule
+	path = src/main/resources/secret-config-submodule
 	url = https://github.com/ghm8614/secret-config-submodule.git
