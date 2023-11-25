@@ -2,7 +2,12 @@ server:
   port: 8080
 
 spring:
-  # MySQL
+  config:
+    import: optional:classpath:/secret-config-submodule/application-secret.yml
+
+  profiles:
+    include: secret
+
   datasource:
     hikari:
       master:
@@ -10,16 +15,11 @@ spring:
       slave:
         driver-class-name: com.mysql.cj.jdbc.Driver
 
-  # Redis
   redis:
     cache:
       port: 6379
     session:
       port: 6379
-  
-  # DB 접속 정보 숨기기
-  profiles:
-    include: secret
 
 mybatis:
   mapper-locations: classpath:mapper/*.xml
