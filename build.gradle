@@ -38,7 +38,7 @@ test {
     useJUnitPlatform()
 }
 
-//processResources.dependsOn('copySubmoduleResource')
+processResources.dependsOn('copySubmoduleResource')
 
 tasks.register('copySubmoduleResource', Copy) {
     from 'src/main/resources/secret-config-submodule'
