@@ -41,6 +41,7 @@ test {
 processResources.dependsOn('copySubmoduleResource')
 
 tasks.register('copySubmoduleResource', Copy) {
-    from 'src/main/resources/secret-config-submodule/application-secret.yml'
+    from 'src/main/resources/secret-config-submodule'
+    include "application-secret.yml"
     into 'src/main/resources'
 }
