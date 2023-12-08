@@ -40,8 +40,8 @@
 
 해당 프로젝트의 모든 정보는 [WIKI](https://github.com/ghm8614/gift-card-flea-market_v2/wiki)를 통해 참고하실 수 있습니다.
 
-&emsp;:small_blue_diamond: [Prototype](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/01.Prototype) <br/>
-&emsp;:small_blue_diamond: [UseCase](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/02.UseCase) <br/>
-&emsp;:small_blue_diamond: [Project Convention](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/03.Project-Convention) <br/>
-&emsp;:small_blue_diamond: [Data Modeling](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/04.Data-Modeling) <br/>
-&emsp;:small_blue_diamond: [Server Architecture](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/05.-Server-Architecture) <br/>
+&emsp; :small_blue_diamond: [Prototype](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/01.Prototype) <br/>
+&emsp; :small_blue_diamond: [UseCase](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/02.UseCase) <br/>
+&emsp; :small_blue_diamond: [Project Convention](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/03.Project-Convention) <br/>
+&emsp; :small_blue_diamond: [Data Modeling](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/04.Data-Modeling) <br/>
+&emsp; :small_blue_diamond: [Server Architecture](https://github.com/ghm8614/gift-card-flea-market_v2/wiki/05.-Server-Architecture) <br/>
